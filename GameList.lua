@@ -23,4 +23,58 @@ return {
         Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
         Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
     },
+     {
+        Title   = "The Mimic",
+        PlaceId = 6243699076,
+        Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
+        Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
+    },
+     {
+        Title   = "The Mimic",
+        PlaceId = 6243699076,
+        Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
+        Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
+    },
+     {
+        Title   = "The Mimic",
+        PlaceId = 6243699076,
+        Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
+        Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
+    },
+     {
+        Title   = "The Mimic",
+        PlaceId = 6243699076,
+        Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
+        Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
+    },
+     {
+        Title   = "The Mimic",
+        PlaceId = 6243699076,
+        Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
+        Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
+    },
+     {
+        Title   = "The Mimic",
+        PlaceId = 6243699076,
+        Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
+        Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
+    },
+     {
+        Title   = "The Mimic",
+        PlaceId = 6243699076,
+        Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
+        Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
+    },
+     {
+        Title   = "The Mimic",
+        PlaceId = 6243699076,
+        Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
+        Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
+    },
+     {
+        Title   = "The Mimic",
+        PlaceId = 6243699076,
+        Image   = "rbxthumb://type=Asset&id=6243699076&w=420&h=420",
+        Execute = [[loadstring(game:HttpGet("https://pastefy.app/yNWkzBxg/raw"))()]],
+    },
 }
